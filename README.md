@@ -14,15 +14,26 @@
 ---
 
 ## 💼 Tech Stack:
+### **Technical Skills**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat-square)
 ![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
+![SSMS](https://img.shields.io/badge/-SSMS-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
+![SSIS](https://img.shields.io/badge/-SSIS-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
+![SSAS](https://img.shields.io/badge/-SSAS-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
 ![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
+![Synapse Analytics](https://img.shields.io/badge/-Azure%20Synapse%20Analytics-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
+![Stream Analytics](https://img.shields.io/badge/-Azure%20Stream%20Analytics-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
+![SQL Database](https://img.shields.io/badge/-Azure%20SQL%20Database-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white&style=flat-square)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white&style=flat-square)
+
+---
+
+### **Soft Skills**
+- 🌟 **Effective Problem-Solving**  
+- 🤝 **Teamwork**  
+- 🔍 **Attention to Detail**  
+- 🎨 **Creative Thinking**
 
 ---
 
