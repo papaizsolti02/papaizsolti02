@@ -44,7 +44,7 @@
 ---
 
 ## 📚 Education:
-- **M.Sc. in Data Analysis and Modeling** (2024), Babes-Bolyai University  
+- **M.Sc. in Data Analysis and Modeling**, Babes-Bolyai University  
 - **B.Sc. in Computer Science**, Babes-Bolyai University  
 - **Erasmus+**: Warsaw University of Technology (2022/2023 Winter Fall)
 
