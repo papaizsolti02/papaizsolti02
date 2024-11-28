@@ -9,6 +9,7 @@
 ## 🚀 About Me:
 🎯 BI/SQL Developer at **PwC Romania**  
 🎓 Master's student in **Data Analysis and Modeling** at Babes-Bolyai University  
+🎓 Bachelor's Degree in **Computer Science** at Babes-Bolyai University  
 🔍 Passionate about transforming data into actionable insights, designing data solutions, and optimizing processes.
 
 ---
