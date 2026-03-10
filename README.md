@@ -1,11 +1,10 @@
 # Hi, I'm Csaba-Zsolt Pápai
 
-Senior Data Engineer | Cloud Data Platforms | Scalable Data Pipelines
+Senior Associate, Data Engineer @PwC | Cloud Data Platforms | Scalable Data Pipelines
 
 Location: Cluj-Napoca, Romania  
 Email: csaba.papai@stud.ubbcluj.ro  
 LinkedIn: https://linkedin.com/in/papaizsolt-engineer  
-GitHub: https://github.com/papaizsolti02
 
 ---
 
@@ -173,11 +172,11 @@ English — C1
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=papaizsolti02&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=papaizsolti02&show_icons=true&theme=github_dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaizsolti02&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaizsolti02&layout=compact&theme=github_dark"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=papaizsolti02" />
+<img height="180em" src="https://streak-stats.demolab.com?user=papaizsolti02&theme=github-dark"/>
 
 </p>
 
