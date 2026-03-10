@@ -172,9 +172,7 @@ English — C1
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=papaizsolti02&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaizsolti02&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=papaizsolti02&theme=github-dark"/>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=papaizsolti02&theme=github-dark"/>
 
