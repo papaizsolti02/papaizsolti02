@@ -44,12 +44,6 @@ I am currently pursuing an M.Sc. in Data Analysis and Modeling at Babes-Bolyai U
 - Apache Spark for distributed processing
 - T-SQL performance optimization
 - PowerShell automation
-
-## Business Intelligence
-- Power BI semantic models
-- Analytical data modeling
-- Reporting optimization
-
 ---
 
 # Technology Stack
@@ -80,13 +74,13 @@ I am currently pursuing an M.Sc. in Data Analysis and Modeling at Babes-Bolyai U
 
 ---
 
-# Featured Project
+# Featured Projects
 
 ## RetailPulse Data Warehouse
 
 A production-style modular data warehouse architecture designed for end-to-end e-commerce analytics.
 
-### Key Capabilities
+Key capabilities:
 
 - Multi-source data ingestion (APIs and synthetic datasets)
 - Automated ETL pipelines
@@ -96,16 +90,42 @@ A production-style modular data warehouse architecture designed for end-to-end e
 - SQL Server database project structure
 - Reproducible and modular architecture
 
-### Architecture
+Architecture overview:
 
 External APIs  
-Data Ingestion Layer (Python API pipelines)  
-Staging Layer  
-Data Warehouse (Star Schema + SCD Type II)  
-Analytics Layer (Power BI)
+Data ingestion pipelines  
+Staging layer  
+Data warehouse (star schema + SCD Type II)  
+Analytics layer (Power BI)
 
-Repository  
+Repository:  
 https://github.com/papaizsolti02/RetailPulseDW
+
+---
+
+## Spark Medallion Data Pipeline (Work in Progress)
+
+A modern data engineering pipeline implementing the **Medallion Architecture (Bronze, Silver, Gold)** using Apache Spark.
+
+The goal of this project is to simulate a **production-grade distributed data processing pipeline** for large-scale datasets.
+
+Current progress:
+
+- Bronze layer implemented
+- Raw data ingestion pipelines built with PySpark
+- Initial data validation and schema enforcement
+- Modular pipeline structure for scalable job orchestration
+
+Planned next steps:
+
+- Implement Silver layer transformations
+- Build Gold analytics tables
+- Add data quality checks and monitoring
+- Implement orchestration and scheduling
+- Optimize Spark transformations and partitioning
+
+Repository:  
+https://github.com/papaizsolti02/spark-medallion-pipeline
 
 ---
 
